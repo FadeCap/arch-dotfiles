@@ -6,6 +6,10 @@
 
 #### They look so good, and the installation steps San's shows are easy to follow and works really well.
 
+
+
+This is not a complete rice (I guess they don't exist tbh), and is a work in progress (when i have time)
+
 This is a list of all the tools and programs used in my personal Arch Linux ricing setup. Below are the installation commands and a brief description of each tool.
 
 ---
