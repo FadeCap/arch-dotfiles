@@ -6,6 +6,7 @@
 
 #### They look so good, and the installation steps San's shows are easy to follow and works really well.
 
+![image](https://github.com/user-attachments/assets/bcf02b59-634b-4aae-8323-f5919ac48cdf)
 
 
 This is not a complete rice (I guess they don't exist tbh), and is a work in progress (when i have time)
