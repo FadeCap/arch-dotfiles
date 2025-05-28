@@ -1,4 +1,4 @@
-# 🌿 Arch Linux Rice Setup
+# Arch Linux Rice Setup
 
 ### This rice is just a slightly tweaked version of [Sansroot's](https://github.com/sansroot) peach rice.
 
