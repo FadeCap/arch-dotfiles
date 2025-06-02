@@ -55,6 +55,7 @@ This is a list of all the tools and programs used in my personal Arch Linux rici
 | **zsh-syntax-highlighting** | Syntax highlights in terminal         | `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting` |
 | **Kitty**                   | GPU-based terminal emulator           | `sudo pacman -S kitty`                                                                                                                  |
 | **Fastfetch**               | Neofetch alternative, faster & themed | `sudo pacman -S fastfetch`                                                                                                              |
+| **Tmux**               | Multiple terminals in one, and sessions etc | `sudo pacman -S tmux`                                                                                                              |
 
 ---
 
