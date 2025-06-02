@@ -39,7 +39,7 @@ This is a list of all the tools and programs used in my personal Arch Linux rici
 
 | Tool             | Description                    | Install Command             |
 | ---------------- | ------------------------------ | --------------------------- |
-| **Cava**         | Console-based audio visualizer | `sudo pacman -S cava`       |
+| **Cava**         | Console-based audio visualizer, this is for waybar | `sudo pacman -S cava`       |
 | **Easy Effects** | Equalizer software             | `sudo pacman -S easyeffect` |
 
 ---
