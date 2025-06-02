@@ -56,6 +56,7 @@ This is a list of all the tools and programs used in my personal Arch Linux rici
 | **Kitty**                   | GPU-based terminal emulator           | `sudo pacman -S kitty`                                                                                                                  |
 | **Fastfetch**               | Neofetch alternative, faster & themed | `sudo pacman -S fastfetch`                                                                                                              |
 | **Tmux**               | Multiple terminals in one, and sessions etc | `sudo pacman -S tmux`                                                                                                              |
+| **LazyGit** (optional)               | Simple terminal UI for Git - commit, stash, push etc | `sudo pacman -S lazygit`                                                                                                              |
 
 ---
 
