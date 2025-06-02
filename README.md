@@ -93,6 +93,7 @@ Don't forget to track the following config directories and files in your repo:
 ~/.zshrc
 
 ~/.p10k.zsh
+~/.config/tmux/
 
 You can use a symlink manager like [`stow`](https://www.gnu.org/software/stow/) to manage them cleanly:
 
