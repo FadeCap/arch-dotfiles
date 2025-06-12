@@ -44,6 +44,11 @@ This is a list of all the tools and programs used in my personal Arch Linux rici
 
 ---
 
+![image](https://github.com/user-attachments/assets/a8032222-e7a6-43e2-a81d-f965af2dee37)
+
+(Almost the same i use in easy effect, slightly altered for less bass)
+
+
 ## 💻 Terminal & Shell
 
 | Tool                        | Description                           | Install Command                                                                                                                         |
