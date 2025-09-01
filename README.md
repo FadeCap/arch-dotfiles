@@ -73,6 +73,15 @@ This is a list of all the tools and programs used in my personal Arch Linux rici
 
 > 📁 Be sure to copy your `~/.config/nvim` directory for custom configs.
 
+
+Extras: (programs I use today)
+ * MPD (music library back-end)
+ * ncmpcpp (music player for the terminal)
+ * Obsidian
+ * lazygit
+ * kdeconnect
+ * rivalcfg (to check battery % on steelseries mouse)
+
 ---
 
 ## 🗂️ Dotfiles
